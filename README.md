@@ -1,9 +1,9 @@
 #ABOUT ME
 
 ### Heading
-Nickname: lumink
-Motto: *italic* I am only one, still I am one. I can not do everything, still I can do something. I will not refuse to do the something I can do (Helen Keller) 
-E-mail: popom.m99@gmail.com
+- Nickname: lumink
+- Motto: *I am only one, still I am one. I can not do everything, still I can do something. I will not refuse to do the something I can do (Helen Keller)* 
+- E-mail: popom.m99@gmail.com
 
 ### Education
 - 숙명여자대학교 컴퓨터과학과 (2014.03~2018.08)
