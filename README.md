@@ -31,3 +31,10 @@
 
 ### Project
 
+
+### International Trips
+- Osaka, Japan
+- Vancouver, Canana
+- Banff, Cannada
+- Seattle, USA
+
